@@ -58,7 +58,7 @@
 
 ## 🚀 React Front End Link <a name="live-demo"></a>
 
-- [React app link](https://github.com/oguntayomicheal/hello-react-front-end.git)
+- [React app link](https://github.com/oguntayomicheal/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +96,7 @@ To run the project, execute the following command:
 - rails db:create db:migrate db:seed
 - API endpoint: url = http://127.0.0.1:3000/api/v1/greetings
 - run rails server on port 3000
-- run react dev server on port 
+- run react dev server on port 3001
 
 <!-- AUTHORS -->
 
